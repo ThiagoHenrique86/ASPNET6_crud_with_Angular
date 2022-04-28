@@ -6,6 +6,10 @@
 --Video de estudo
 https://www.youtube.com/watch?v=eCbaZixsP-s&t=2609s
 
+--ADICIONAR PACOTES NAS DEPENDENCIAS
+Microsoft.EntityframeworkCore
+Microsoft.EntityframeworkCore.Tools
+Microsoft.EntityframeworkCore.SqlServer
 
 --PARA CRIAR O BANCO
 
